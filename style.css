@@ -1,0 +1,30 @@
+body{
+	background-color: #FCFF33;
+}
+.form-structure{
+	width: 50%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.heading{
+	text-align: center;
+    }
+.gender_section{
+	text-align: center;
+
+}
+.button_section{
+	margin-left: 250px;
+}
+.btn-custom{
+	border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #09BF09;
+    color: black;
+
+}
+.form-control{
+	border: 1px black solid;
+    }
